@@ -1,7 +1,10 @@
 1. Proper README done
 2. Integration tests done
 3. Programatic verification
-4. Push to Github
+4. Push to Github done
+
+
+   //readme taken from Patrick Collins
 
  Foundry Fund Me
 
